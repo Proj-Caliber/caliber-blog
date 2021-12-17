@@ -1,0 +1,22 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/showfolio"]
+	path = themes/showfolio
+	url = https://github.com/apvarun/showfolio-hugo-theme.git
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "themes/tella"]
+	path = themes/tella
+	url = https://github.com/opera7133/tella.git
+[submodule "themes/hugo-theme-air"]
+	path = themes/hugo-theme-air
+	url = https://github.com/syui/hugo-theme-air.git
+[submodule "themes/Blonde"]
+	path = themes/Blonde
+	url = https://github.com/opera7133/Blonde.git
+[submodule "public"]
+	path = public
+	url = git@github.com:Proj-Caliber/Proj-Caliber.github.io.git
+	branch = master
